@@ -31,4 +31,8 @@ public class H implements G {
     public double ee() {
         return 100.500;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
