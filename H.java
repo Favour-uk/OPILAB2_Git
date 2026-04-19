@@ -40,3 +40,4 @@ public class H implements G {
         System.out.println("Hello world!");
     }
 }
+// Change for task 3.6
