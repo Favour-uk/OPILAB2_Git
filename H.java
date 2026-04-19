@@ -56,3 +56,4 @@ public class H extends null implements G {
         return 11;
     }
 }
+// Change for task 3.6
