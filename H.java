@@ -19,8 +19,4 @@ public class H implements G {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public int cc() {
-        return 42;
-    }
 }

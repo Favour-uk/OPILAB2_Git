@@ -19,8 +19,4 @@ public class K implements G {
     public void bb() {
         System.out.println(42);
     }
-
-    public int hh() {
-        return new java.util.Random(10).nextInt(10);
-    }
 }
