@@ -23,4 +23,8 @@ public class K implements G {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
