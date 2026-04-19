@@ -1,4 +1,4 @@
-public class H implements G {
+public class H extends null implements G {
 
     private byte h = 1;
 
@@ -26,5 +26,17 @@ public class H implements G {
 
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
+    }
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 }
