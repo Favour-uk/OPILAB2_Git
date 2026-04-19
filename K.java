@@ -20,12 +20,12 @@ public class K extends null implements G {
         System.out.println(42);
     }
 
-    public double ee() {
-        return 0.000001;
-    }
-
     public int hh() {
         return new java.util.Random(10).nextInt(10);
+    }
+
+    public double ee() {
+        return 0.000001;
     }
 
     public Object pp() {
@@ -34,5 +34,21 @@ public class K extends null implements G {
 
     public void aa() {
         System.out.println("Hello world!");
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public double ad() {
+        return 9.11;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public Object rr() {
+        return null;
     }
 }
