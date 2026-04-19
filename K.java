@@ -51,4 +51,8 @@ public class K extends null implements G {
     public Object rr() {
         return null;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

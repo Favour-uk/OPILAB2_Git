@@ -51,4 +51,8 @@ public class H extends null implements G {
     public int af() {
         return -1;
     }
+
+    public double ad() {
+        return 11;
+    }
 }
