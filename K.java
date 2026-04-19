@@ -35,4 +35,8 @@ public class K implements G {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public int af() {
+        return -1;
+    }
 }

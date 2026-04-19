@@ -35,4 +35,8 @@ public class H implements G {
     public Object pp() {
         return this;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
