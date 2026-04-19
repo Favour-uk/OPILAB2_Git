@@ -23,4 +23,8 @@ public class H implements G {
     public int cc() {
         return 42;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
